@@ -14,7 +14,7 @@
 #include <TinyGPS++.h> //https://github.com/mikalhart/TinyGPSPlus
 //Instal Library ArduinoJson
 //Catatan: Pustaka JSON terbaru mungkin tidak berfungsi dengan kode tersebut.
-//Jadi, Anda mungkin perlu menurunkan versi perpustakaan ke versi v5.13.5
+//Jadi, Anda mungkin perlu menurunkan versi library ke versi v5.13.5
 //-----------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------
 #define FIREBASE_HOST "xx-xx-xxx-firebase-xxxx-default-rtdb.firebaseio.com"
