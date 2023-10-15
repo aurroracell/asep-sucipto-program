@@ -17,10 +17,10 @@
 //Jadi, Anda mungkin perlu menurunkan versi perpustakaan ke versi v5.13.5
 //-----------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------
-#define FIREBASE_HOST "esp-32-gps-firebase-7f8f3-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "AIzaSyCEjTrLJD2UYWo9SKVoQySk94DJdDEK0bo"
-#define WIFI_SSID "MV007-6AF2"
-#define WIFI_PASSWORD "64138003"
+#define FIREBASE_HOST "xx-xx-xxx-firebase-xxxx-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "xx-KODE SECRET AUTH FIREBASE-xx"
+#define WIFI_SSID "xx-NAME WIFI SSID-XX"
+#define WIFI_PASSWORD "xx-PASSWORD WIFI-xx"
 //-----------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------
 //Tentukan objek data FirebaseESP8266
