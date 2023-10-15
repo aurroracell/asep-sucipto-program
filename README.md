@@ -1,5 +1,5 @@
 # asep-sucipto-program
-Dibangun untuk pengembang
+Dibangun untuk tugas akhir
 
 Program IoT Tracker GPS Control ini dibuat untuk karya ilmiah tugas akhir kampus Universitas pamulang.
 Judul : "RANCANG BANGUN SISTEM KEAMANAN KENDARAAN BERBASIS INTERNET OF THINGS (IOT) DAN ANDROID MENGGUNAKAN ARDUINO"
